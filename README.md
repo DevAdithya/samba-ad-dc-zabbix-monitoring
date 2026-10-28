@@ -36,4 +36,4 @@ This project implements a Domain Controller setup on a Linux server using Samba 
 - Experience in setting up AD-like services on Linux
 - Hands-on with real-time network monitoring using Zabbix
 
-## 📅 Completed: May 2026
+## 📅 Completed: Oct 2026
